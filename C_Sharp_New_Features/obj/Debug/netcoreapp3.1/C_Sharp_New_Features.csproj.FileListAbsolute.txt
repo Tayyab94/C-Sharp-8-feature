@@ -1,0 +1,13 @@
+C:\Users\tayya\source\repos\C_Sharp_New_Features\C_Sharp_New_Features\bin\Debug\netcoreapp3.1\C_Sharp_New_Features.exe
+C:\Users\tayya\source\repos\C_Sharp_New_Features\C_Sharp_New_Features\bin\Debug\netcoreapp3.1\C_Sharp_New_Features.deps.json
+C:\Users\tayya\source\repos\C_Sharp_New_Features\C_Sharp_New_Features\bin\Debug\netcoreapp3.1\C_Sharp_New_Features.runtimeconfig.json
+C:\Users\tayya\source\repos\C_Sharp_New_Features\C_Sharp_New_Features\bin\Debug\netcoreapp3.1\C_Sharp_New_Features.runtimeconfig.dev.json
+C:\Users\tayya\source\repos\C_Sharp_New_Features\C_Sharp_New_Features\bin\Debug\netcoreapp3.1\C_Sharp_New_Features.dll
+C:\Users\tayya\source\repos\C_Sharp_New_Features\C_Sharp_New_Features\bin\Debug\netcoreapp3.1\C_Sharp_New_Features.pdb
+C:\Users\tayya\source\repos\C_Sharp_New_Features\C_Sharp_New_Features\obj\Debug\netcoreapp3.1\C_Sharp_New_Features.csprojAssemblyReference.cache
+C:\Users\tayya\source\repos\C_Sharp_New_Features\C_Sharp_New_Features\obj\Debug\netcoreapp3.1\C_Sharp_New_Features.AssemblyInfoInputs.cache
+C:\Users\tayya\source\repos\C_Sharp_New_Features\C_Sharp_New_Features\obj\Debug\netcoreapp3.1\C_Sharp_New_Features.AssemblyInfo.cs
+C:\Users\tayya\source\repos\C_Sharp_New_Features\C_Sharp_New_Features\obj\Debug\netcoreapp3.1\C_Sharp_New_Features.csproj.CoreCompileInputs.cache
+C:\Users\tayya\source\repos\C_Sharp_New_Features\C_Sharp_New_Features\obj\Debug\netcoreapp3.1\C_Sharp_New_Features.dll
+C:\Users\tayya\source\repos\C_Sharp_New_Features\C_Sharp_New_Features\obj\Debug\netcoreapp3.1\C_Sharp_New_Features.pdb
+C:\Users\tayya\source\repos\C_Sharp_New_Features\C_Sharp_New_Features\obj\Debug\netcoreapp3.1\C_Sharp_New_Features.genruntimeconfig.cache
